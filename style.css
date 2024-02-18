@@ -1,0 +1,18 @@
+div {
+    border:1px solid black;
+}
+
+
+
+
+.board{
+    height:700px;
+    width:700px;
+}
+
+.cell{
+    height:85px;
+    width:85px;
+    float:left;
+    text-align: center;
+}
